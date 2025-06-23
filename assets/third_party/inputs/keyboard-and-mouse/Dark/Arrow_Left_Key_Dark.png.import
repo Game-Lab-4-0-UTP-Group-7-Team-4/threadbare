@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lj8iogm46p3g"
-path="res://.godot/imported/Arrow_Left_Key_Dark.png-77227926a4db2f2adf8ba61a674da3e3.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Arrow_Left_Key_Dark.png"
-dest_files=["res://.godot/imported/Arrow_Left_Key_Dark.png-77227926a4db2f2adf8ba61a674da3e3.ctex"]
 
 [params]
 

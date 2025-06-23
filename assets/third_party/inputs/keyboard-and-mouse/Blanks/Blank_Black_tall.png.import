@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpqdfaumoys80"
-path="res://.godot/imported/Blank_Black_tall.png-1bc4d641d96ebe7fed9c0d3a3f0560ea.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Blanks/Blank_Black_tall.png"
-dest_files=["res://.godot/imported/Blank_Black_tall.png-1bc4d641d96ebe7fed9c0d3a3f0560ea.ctex"]
 
 [params]
 

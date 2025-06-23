@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqvj0682oytop"
-path="res://.godot/imported/Bush_Green_Large.png-249d2a716933b4cdadd8e8259eb5a435.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/bush/components/Bush_Green_Large.png"
-dest_files=["res://.godot/imported/Bush_Green_Large.png-249d2a716933b4cdadd8e8259eb5a435.ctex"]
 
 [params]
 

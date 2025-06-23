@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3jt6vlrj1ntv"
-path="res://.godot/imported/eternal_loom_purple.png-d8cd90453fa48f7f50d3ed1a4380078d.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/eternal_loom/components/eternal_loom_purple.png"
-dest_files=["res://.godot/imported/eternal_loom_purple.png-d8cd90453fa48f7f50d3ed1a4380078d.ctex"]
 
 [params]
 

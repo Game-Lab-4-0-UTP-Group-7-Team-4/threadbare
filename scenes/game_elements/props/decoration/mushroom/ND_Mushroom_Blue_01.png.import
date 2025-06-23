@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://72tsg0sif7sq"
-path="res://.godot/imported/ND_Mushroom_Blue_01.png-73d6c9811e3fc727d81bc0cfad9badab.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/mushroom/ND_Mushroom_Blue_01.png"
-dest_files=["res://.godot/imported/ND_Mushroom_Blue_01.png-73d6c9811e3fc727d81bc0cfad9badab.ctex"]
 
 [params]
 

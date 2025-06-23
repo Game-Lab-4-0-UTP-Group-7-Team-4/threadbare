@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjsbgo8q42xoi"
-path="res://.godot/imported/Rocks_04.png-7c3f39af9439f8b5d8375e594feffe8f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Terrain/Water/Rocks/Rocks_04.png"
-dest_files=["res://.godot/imported/Rocks_04.png-7c3f39af9439f8b5d8375e594feffe8f.ctex"]
 
 [params]
 

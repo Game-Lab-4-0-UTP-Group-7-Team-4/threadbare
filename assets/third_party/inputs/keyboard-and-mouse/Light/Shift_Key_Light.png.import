@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hpwnbj0t3i1u"
-path="res://.godot/imported/Shift_Key_Light.png-47a2f379ee65194c489767ec81d8eb01.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Shift_Key_Light.png"
-dest_files=["res://.godot/imported/Shift_Key_Light.png-47a2f379ee65194c489767ec81d8eb01.ctex"]
 
 [params]
 

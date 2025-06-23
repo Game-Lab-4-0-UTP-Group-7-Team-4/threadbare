@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn4r452hfs40n"
-path="res://.godot/imported/Bracket_Left_Key_Dark.png-24f926bb73643f1dc7803f3e694b205c.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Bracket_Left_Key_Dark.png"
-dest_files=["res://.godot/imported/Bracket_Left_Key_Dark.png-24f926bb73643f1dc7803f3e694b205c.ctex"]
 
 [params]
 

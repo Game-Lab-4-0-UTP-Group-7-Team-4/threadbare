@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl6o7vcf2fyc"
-path="res://.godot/imported/Tower_Patchwork_Ruined1.png-df687b5a24a3ef54e1057cc6bc65ffb8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/towers/Tower_Patchwork_Ruined1.png"
-dest_files=["res://.godot/imported/Tower_Patchwork_Ruined1.png-df687b5a24a3ef54e1057cc6bc65ffb8.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0uk36s6wl3mc"
-path="res://.godot/imported/13.png-494ccdfc26e99bb9faa61c0b14e7c01d.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Deco/13.png"
-dest_files=["res://.godot/imported/13.png-494ccdfc26e99bb9faa61c0b14e7c01d.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3ee7plbgf8tg"
-path="res://.godot/imported/Torch_Blue.png-66f644a1ae37ae9e26a9e454bb58cfbb.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Goblins/Troops/Torch/Blue/Torch_Blue.png"
-dest_files=["res://.godot/imported/Torch_Blue.png-66f644a1ae37ae9e26a9e454bb58cfbb.ctex"]
 
 [params]
 

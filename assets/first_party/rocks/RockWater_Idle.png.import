@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvgio1b8la3bg"
-path="res://.godot/imported/RockWater_Idle.png-293f65659eadd6c7c807eab0692a0bbc.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/rocks/RockWater_Idle.png"
-dest_files=["res://.godot/imported/RockWater_Idle.png-293f65659eadd6c7c807eab0692a0bbc.ctex"]
 
 [params]
 

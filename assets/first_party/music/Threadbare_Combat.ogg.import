@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgwihwibc8ah6"
-path="res://.godot/imported/Threadbare_Combat.ogg-bdb792247e421edd9da8f4cc6b40a1e1.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/music/Threadbare_Combat.ogg"
-dest_files=["res://.godot/imported/Threadbare_Combat.ogg-bdb792247e421edd9da8f4cc6b40a1e1.oggvorbisstr"]
 
 [params]
 

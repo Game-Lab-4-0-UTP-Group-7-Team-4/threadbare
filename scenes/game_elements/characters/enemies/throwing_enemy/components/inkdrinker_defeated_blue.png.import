@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ibifspxuvjf0"
-path="res://.godot/imported/inkdrinker_defeated_blue.png-62e4fe2b65740792563a828c882180b6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/enemies/throwing_enemy/components/inkdrinker_defeated_blue.png"
-dest_files=["res://.godot/imported/inkdrinker_defeated_blue.png-62e4fe2b65740792563a828c882180b6.ctex"]
 
 [params]
 

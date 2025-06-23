@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wxf47acry7qc"
-path="res://.godot/imported/LeftToRightWipe.png-3cd84914126a4a437404ffba2e3170a0.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/globals/scene_switcher/transitions/LeftToRightWipe.png"
-dest_files=["res://.godot/imported/LeftToRightWipe.png-3cd84914126a4a437404ffba2e3170a0.ctex"]
 
 [params]
 

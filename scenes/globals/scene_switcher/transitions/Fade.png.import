@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpvc4xmg7at7r"
-path="res://.godot/imported/Fade.png-a52099e232fc20b1c80ed980c3f40aac.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/globals/scene_switcher/transitions/Fade.png"
-dest_files=["res://.godot/imported/Fade.png-a52099e232fc20b1c80ed980c3f40aac.ctex"]
 
 [params]
 

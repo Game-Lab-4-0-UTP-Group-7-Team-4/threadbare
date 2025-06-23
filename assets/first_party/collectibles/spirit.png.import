@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4fefrg0tfkpl"
-path="res://.godot/imported/spirit.png-77fa7ebf38e195b4942746c0d4b30407.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/collectibles/spirit.png"
-dest_files=["res://.godot/imported/spirit.png-77fa7ebf38e195b4942746c0d4b30407.ctex"]
 
 [params]
 

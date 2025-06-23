@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cobda84xw48kk"
-path="res://.godot/imported/wind_noise.png-a1cd395eab28ba12ce49cb5aa881d264.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/tree/components/wind_noise.png"
-dest_files=["res://.godot/imported/wind_noise.png-a1cd395eab28ba12ce49cb5aa881d264.ctex"]
 
 [params]
 

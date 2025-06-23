@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dkkausfh5xj5i"
-path="res://.godot/imported/splat.ogg-39799496fcb041175c5f92d74378f039.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/fx/liquid_small_splat/components/splat.ogg"
-dest_files=["res://.godot/imported/splat.ogg-39799496fcb041175c5f92d74378f039.oggvorbisstr"]
 
 [params]
 

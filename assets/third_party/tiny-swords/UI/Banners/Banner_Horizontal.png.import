@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b00c4kiewn30t"
-path="res://.godot/imported/Banner_Horizontal.png-cf416eee9371254f2e3f719472abd241.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Banners/Banner_Horizontal.png"
-dest_files=["res://.godot/imported/Banner_Horizontal.png-cf416eee9371254f2e3f719472abd241.ctex"]
 
 [params]
 

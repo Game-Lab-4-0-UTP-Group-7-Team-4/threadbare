@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fy44c8mpec6i"
-path="res://.godot/imported/Button_Blue_9Slides_Pressed.png-a7602f39c2483abc08320397d01dcab5.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Buttons/Button_Blue_9Slides_Pressed.png"
-dest_files=["res://.godot/imported/Button_Blue_9Slides_Pressed.png-a7602f39c2483abc08320397d01dcab5.ctex"]
 
 [params]
 

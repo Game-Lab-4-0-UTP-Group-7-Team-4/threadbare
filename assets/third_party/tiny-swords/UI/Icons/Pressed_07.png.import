@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dupstgckyhcct"
-path="res://.godot/imported/Pressed_07.png-f1ef73bc24ce7811dc9d46762bb30d57.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Icons/Pressed_07.png"
-dest_files=["res://.godot/imported/Pressed_07.png-f1ef73bc24ce7811dc9d46762bb30d57.ctex"]
 
 [params]
 

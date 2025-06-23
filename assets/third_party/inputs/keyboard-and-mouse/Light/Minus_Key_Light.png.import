@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbslmvmsly156"
-path="res://.godot/imported/Minus_Key_Light.png-6ace0b87f16dbfb169a8c66f65fec270.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Minus_Key_Light.png"
-dest_files=["res://.godot/imported/Minus_Key_Light.png-6ace0b87f16dbfb169a8c66f65fec270.ctex"]
 
 [params]
 

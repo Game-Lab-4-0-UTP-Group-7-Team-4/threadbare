@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyvi71ryavsld"
-path="res://.godot/imported/Books_2.png-e3c835fdf6cc1490e6a2e43c77e20871.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/books/components/Books_2.png"
-dest_files=["res://.godot/imported/Books_2.png-e3c835fdf6cc1490e6a2e43c77e20871.ctex"]
 
 [params]
 

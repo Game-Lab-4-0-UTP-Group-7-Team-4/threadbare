@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tlkviqum1j74"
-path="res://.godot/imported/ND_Potion_02.png-a0d1388c3c952fe63ec7b2e232e59ddc.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/potion/ND_Potion_02.png"
-dest_files=["res://.godot/imported/ND_Potion_02.png-a0d1388c3c952fe63ec7b2e232e59ddc.ctex"]
 
 [params]
 

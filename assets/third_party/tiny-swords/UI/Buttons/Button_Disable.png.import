@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btcpdy7pe20lw"
-path="res://.godot/imported/Button_Disable.png-3f2ddfa0438bfe4d6f8836532d757a8c.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Buttons/Button_Disable.png"
-dest_files=["res://.godot/imported/Button_Disable.png-3f2ddfa0438bfe4d6f8836532d757a8c.ctex"]
 
 [params]
 

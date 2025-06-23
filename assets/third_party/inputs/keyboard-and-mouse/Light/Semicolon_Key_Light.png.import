@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6i8pip32tm1h"
-path="res://.godot/imported/Semicolon_Key_Light.png-de5f8eceb1b057daa6e28477c819eb44.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Semicolon_Key_Light.png"
-dest_files=["res://.godot/imported/Semicolon_Key_Light.png-de5f8eceb1b057daa6e28477c819eb44.ctex"]
 
 [params]
 

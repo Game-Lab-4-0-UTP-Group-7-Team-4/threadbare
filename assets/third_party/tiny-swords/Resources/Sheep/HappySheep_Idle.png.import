@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh6kqda3mgmfg"
-path="res://.godot/imported/HappySheep_Idle.png-95249d6a6367575a5815d863b39c3ee9.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Sheep/HappySheep_Idle.png"
-dest_files=["res://.godot/imported/HappySheep_Idle.png-95249d6a6367575a5815d863b39c3ee9.ctex"]
 
 [params]
 

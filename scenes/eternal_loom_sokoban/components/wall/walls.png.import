@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c86ayucyybr2t"
-path="res://.godot/imported/walls.png-cc4e2bba00589d961affd7c8b4e269b6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/eternal_loom_sokoban/components/wall/walls.png"
-dest_files=["res://.godot/imported/walls.png-cc4e2bba00589d961affd7c8b4e269b6.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6axdcyh6b4ph"
-path="res://.godot/imported/Warrior_Yellow.png-a6425d5510179a16193c15077e805eb8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Warrior/Yellow/Warrior_Yellow.png"
-dest_files=["res://.godot/imported/Warrior_Yellow.png-a6425d5510179a16193c15077e805eb8.ctex"]
 
 [params]
 

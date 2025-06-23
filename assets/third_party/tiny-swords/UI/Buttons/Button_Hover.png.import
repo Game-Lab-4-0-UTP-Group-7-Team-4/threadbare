@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq2s56qf1ago1"
-path="res://.godot/imported/Button_Hover.png-316415bf3950e906d0f085f362e2e163.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Buttons/Button_Hover.png"
-dest_files=["res://.godot/imported/Button_Hover.png-316415bf3950e906d0f085f362e2e163.ctex"]
 
 [params]
 

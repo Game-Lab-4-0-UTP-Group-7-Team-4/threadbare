@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw6uapqog31od"
-path="res://.godot/imported/Wood_Tower_Yellow.png-ffb97fff7c520db7465ac67fc2d51f16.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Yellow.png"
-dest_files=["res://.godot/imported/Wood_Tower_Yellow.png-ffb97fff7c520db7465ac67fc2d51f16.ctex"]
 
 [params]
 

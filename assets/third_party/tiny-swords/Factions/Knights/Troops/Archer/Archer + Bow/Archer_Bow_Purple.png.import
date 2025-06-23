@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e3xaagki6gp8"
-path="res://.godot/imported/Archer_Bow_Purple.png-86e828e3ada9488696ad22e196162f3b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Purple.png"
-dest_files=["res://.godot/imported/Archer_Bow_Purple.png-86e828e3ada9488696ad22e196162f3b.ctex"]
 
 [params]
 

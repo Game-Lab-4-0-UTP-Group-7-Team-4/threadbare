@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcrkdnx7vbvga"
-path="res://.godot/imported/Tree.png-22398f775c70ba17e5966e47d7e7cc05.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Trees/Tree.png"
-dest_files=["res://.godot/imported/Tree.png-22398f775c70ba17e5966e47d7e7cc05.ctex"]
 
 [params]
 

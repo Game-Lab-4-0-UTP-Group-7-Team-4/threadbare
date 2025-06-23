@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doc4qg7e3kgs"
-path="res://.godot/imported/Water.png-2fbc538c7e241ef5808c31710af98257.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Terrain/Water/Water.png"
-dest_files=["res://.godot/imported/Water.png-2fbc538c7e241ef5808c31710af98257.ctex"]
 
 [params]
 

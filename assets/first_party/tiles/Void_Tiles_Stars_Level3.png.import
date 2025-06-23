@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://td3y2vjom24f"
-path="res://.godot/imported/Void_Tiles_Stars_Level3.png-0a208fe904f89265ecc7c62ed1eea287.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/tiles/Void_Tiles_Stars_Level3.png"
-dest_files=["res://.godot/imported/Void_Tiles_Stars_Level3.png-0a208fe904f89265ecc7c62ed1eea287.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b50reb7el7scd"
-path="res://.godot/imported/TNT_Blue.png-4ff491756796a36be3e9d7605362fee3.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Goblins/Troops/TNT/Blue/TNT_Blue.png"
-dest_files=["res://.godot/imported/TNT_Blue.png-4ff491756796a36be3e9d7605362fee3.ctex"]
 
 [params]
 

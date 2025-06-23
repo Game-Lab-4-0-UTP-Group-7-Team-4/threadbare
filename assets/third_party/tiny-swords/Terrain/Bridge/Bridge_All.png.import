@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnmmh3uq7rkla"
-path="res://.godot/imported/Bridge_All.png-cfec24eed19ce5d3f17a9437f9d0c82f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Terrain/Bridge/Bridge_All.png"
-dest_files=["res://.godot/imported/Bridge_All.png-cfec24eed19ce5d3f17a9437f9d0c82f.ctex"]
 
 [params]
 

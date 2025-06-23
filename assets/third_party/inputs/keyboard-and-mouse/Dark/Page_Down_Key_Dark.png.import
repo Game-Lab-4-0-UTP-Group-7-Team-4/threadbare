@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4twkr8yc7olj"
-path="res://.godot/imported/Page_Down_Key_Dark.png-295fe600d8946a8d72c04f90e46a9ac7.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Page_Down_Key_Dark.png"
-dest_files=["res://.godot/imported/Page_Down_Key_Dark.png-295fe600d8946a8d72c04f90e46a9ac7.ctex"]
 
 [params]
 

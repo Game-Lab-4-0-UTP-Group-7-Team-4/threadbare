@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3jrnsvk46nji"
-path="res://.godot/imported/Mushroom_Revealing.png-b19ab87d6c359c853cff675553b4c876.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/hiding_mushroom/components/Mushroom_Revealing.png"
-dest_files=["res://.godot/imported/Mushroom_Revealing.png-b19ab87d6c359c853cff675553b4c876.ctex"]
 
 [params]
 

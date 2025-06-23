@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpya63wpep1q7"
-path="res://.godot/imported/GoldMine_Active.png-19d8c1035063dce56fe8372965933479.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Gold Mine/GoldMine_Active.png"
-dest_files=["res://.godot/imported/GoldMine_Active.png-19d8c1035063dce56fe8372965933479.ctex"]
 
 [params]
 

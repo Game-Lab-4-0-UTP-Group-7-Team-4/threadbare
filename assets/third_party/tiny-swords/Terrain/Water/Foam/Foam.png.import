@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cexg7otw5enpu"
-path="res://.godot/imported/Foam.png-3df6681be488e3662bbd2ee25cb2855a.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Terrain/Water/Foam/Foam.png"
-dest_files=["res://.godot/imported/Foam.png-3df6681be488e3662bbd2ee25cb2855a.ctex"]
 
 [params]
 

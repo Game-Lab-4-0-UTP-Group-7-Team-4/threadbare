@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rys7ic6xqjoy"
-path="res://.godot/imported/F7_Key_Dark.png-2cc7fd9e36291ce1aea82f291e451957.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/F7_Key_Dark.png"
-dest_files=["res://.godot/imported/F7_Key_Dark.png-2cc7fd9e36291ce1aea82f291e451957.ctex"]
 
 [params]
 

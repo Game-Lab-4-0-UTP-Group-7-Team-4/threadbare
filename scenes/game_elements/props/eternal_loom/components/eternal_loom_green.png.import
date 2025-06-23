@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d205asocv4glk"
-path="res://.godot/imported/eternal_loom_green.png-5e1a8a190e235bfc0abe07d989519792.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/eternal_loom/components/eternal_loom_green.png"
-dest_files=["res://.godot/imported/eternal_loom_green.png-5e1a8a190e235bfc0abe07d989519792.ctex"]
 
 [params]
 

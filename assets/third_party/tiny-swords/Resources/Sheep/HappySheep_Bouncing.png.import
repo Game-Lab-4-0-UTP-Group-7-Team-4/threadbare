@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di6dljsgpbrwv"
-path="res://.godot/imported/HappySheep_Bouncing.png-b56a2c262a59048db38e7085878ef713.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Sheep/HappySheep_Bouncing.png"
-dest_files=["res://.godot/imported/HappySheep_Bouncing.png-b56a2c262a59048db38e7085878ef713.ctex"]
 
 [params]
 

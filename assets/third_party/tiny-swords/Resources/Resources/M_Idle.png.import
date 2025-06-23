@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1o33hntwpmnj"
-path="res://.godot/imported/M_Idle.png-8917b3eab99b96a9c5d761cefbc592fe.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Resources/M_Idle.png"
-dest_files=["res://.godot/imported/M_Idle.png-8917b3eab99b96a9c5d761cefbc592fe.ctex"]
 
 [params]
 

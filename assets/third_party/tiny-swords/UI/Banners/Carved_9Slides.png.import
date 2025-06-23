@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh4tixu06hfwt"
-path="res://.godot/imported/Carved_9Slides.png-463f4448bccbec3ec5fb627e1e755d91.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Banners/Carved_9Slides.png"
-dest_files=["res://.godot/imported/Carved_9Slides.png-463f4448bccbec3ec5fb627e1e755d91.ctex"]
 
 [params]
 

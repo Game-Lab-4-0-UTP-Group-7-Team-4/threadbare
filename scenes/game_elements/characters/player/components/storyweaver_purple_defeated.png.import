@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuw1ayx2o1kyb"
-path="res://.godot/imported/storyweaver_purple_defeated.png-63b089050f2ebb9ba5cfd4f07c47b4df.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/player/components/storyweaver_purple_defeated.png"
-dest_files=["res://.godot/imported/storyweaver_purple_defeated.png-63b089050f2ebb9ba5cfd4f07c47b4df.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0p363paov0o5"
-path="res://.godot/imported/Goblin_House.png-865f05942e171afa62107ed36b486a8d.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Goblins/Buildings/Wood_House/Goblin_House.png"
-dest_files=["res://.godot/imported/Goblin_House.png-865f05942e171afa62107ed36b486a8d.ctex"]
 
 [params]
 

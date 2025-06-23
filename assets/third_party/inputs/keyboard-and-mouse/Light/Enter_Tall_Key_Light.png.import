@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cv10icq30ni2u"
-path="res://.godot/imported/Enter_Tall_Key_Light.png-62dc898c579e38616baf2859521512a6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Enter_Tall_Key_Light.png"
-dest_files=["res://.godot/imported/Enter_Tall_Key_Light.png-62dc898c579e38616baf2859521512a6.ctex"]
 
 [params]
 

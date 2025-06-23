@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dslom0xbe1if7"
-path="res://.godot/imported/Shadows.png-fe81033c7198f1fcb8d7dac528b4046f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Terrain/Ground/Shadows.png"
-dest_files=["res://.godot/imported/Shadows.png-fe81033c7198f1fcb8d7dac528b4046f.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bexu3704nbbdp"
-path="res://.godot/imported/inkdrinker_attack_blue.png-e70043df57550e1a03bc48be08e14bc4.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/enemies/throwing_enemy/components/inkdrinker_attack_blue.png"
-dest_files=["res://.godot/imported/inkdrinker_attack_blue.png-e70043df57550e1a03bc48be08e14bc4.ctex"]
 
 [params]
 

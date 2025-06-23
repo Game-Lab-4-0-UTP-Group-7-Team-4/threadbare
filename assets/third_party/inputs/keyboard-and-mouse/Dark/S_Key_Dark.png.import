@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://81wd3jopeflu"
-path="res://.godot/imported/S_Key_Dark.png-ed9a6537c133418b88b77126b9821e6b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/S_Key_Dark.png"
-dest_files=["res://.godot/imported/S_Key_Dark.png-ed9a6537c133418b88b77126b9821e6b.ctex"]
 
 [params]
 

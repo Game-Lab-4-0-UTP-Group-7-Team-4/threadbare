@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4gjylrs0g2xx"
-path="res://.godot/imported/ND_Crochenthemum_01.png-f926823d9f2f3729b1894a66cec135c7.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/crochenthemum/ND_Crochenthemum_01.png"
-dest_files=["res://.godot/imported/ND_Crochenthemum_01.png-f926823d9f2f3729b1894a66cec135c7.ctex"]
 
 [params]
 

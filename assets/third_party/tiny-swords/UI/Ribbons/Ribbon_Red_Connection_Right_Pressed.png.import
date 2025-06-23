@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct3vhfh7iet4y"
-path="res://.godot/imported/Ribbon_Red_Connection_Right_Pressed.png-944e524ee86e7b17f3bca73d6ce94629.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Ribbons/Ribbon_Red_Connection_Right_Pressed.png"
-dest_files=["res://.godot/imported/Ribbon_Red_Connection_Right_Pressed.png-944e524ee86e7b17f3bca73d6ce94629.ctex"]
 
 [params]
 

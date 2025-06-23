@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cs1bx2odpj6vm"
-path="res://.godot/imported/pencil.ogg-24e1e797052106256ec789b76d258bdd.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://scenes/ui_elements/dialogue/components/sounds/pencil.ogg"
-dest_files=["res://.godot/imported/pencil.ogg-24e1e797052106256ec789b76d258bdd.oggvorbisstr"]
 
 [params]
 

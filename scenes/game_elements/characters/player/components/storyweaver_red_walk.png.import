@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0rbcdewdt5sq"
-path="res://.godot/imported/storyweaver_red_walk.png-b650dbbc7efddb743808b8f0a65a0003.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/player/components/storyweaver_red_walk.png"
-dest_files=["res://.godot/imported/storyweaver_red_walk.png-b650dbbc7efddb743808b8f0a65a0003.ctex"]
 
 [params]
 

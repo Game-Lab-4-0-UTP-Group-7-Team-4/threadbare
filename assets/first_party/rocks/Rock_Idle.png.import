@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhqanyxhpxpm"
-path="res://.godot/imported/Rock_Idle.png-da65a5b689cf36e59b57057f781634c7.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/rocks/Rock_Idle.png"
-dest_files=["res://.godot/imported/Rock_Idle.png-da65a5b689cf36e59b57057f781634c7.ctex"]
 
 [params]
 

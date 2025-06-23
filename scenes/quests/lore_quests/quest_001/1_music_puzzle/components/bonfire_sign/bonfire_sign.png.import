@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjpr8ft5kpu7x"
-path="res://.godot/imported/bonfire_sign.png-b7831f8ca1b7e8d4cdec995c20fe5b95.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/quests/lore_quests/quest_001/1_music_puzzle/components/bonfire_sign/bonfire_sign.png"
-dest_files=["res://.godot/imported/bonfire_sign.png-b7831f8ca1b7e8d4cdec995c20fe5b95.ctex"]
 
 [params]
 

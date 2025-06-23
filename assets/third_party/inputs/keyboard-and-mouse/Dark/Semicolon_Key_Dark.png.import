@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b11i5bwwy6v0y"
-path="res://.godot/imported/Semicolon_Key_Dark.png-88babc84ab652db910ac6c9a6dd1e602.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Semicolon_Key_Dark.png"
-dest_files=["res://.godot/imported/Semicolon_Key_Dark.png-88babc84ab652db910ac6c9a6dd1e602.ctex"]
 
 [params]
 

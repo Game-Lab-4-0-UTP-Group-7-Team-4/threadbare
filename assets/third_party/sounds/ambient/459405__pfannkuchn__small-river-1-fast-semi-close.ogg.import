@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://xuqj6b5qqs3w"
-path="res://.godot/imported/459405__pfannkuchn__small-river-1-fast-semi-close.ogg-3d5769d929e34fef566f47c5b3863a9c.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/sounds/ambient/459405__pfannkuchn__small-river-1-fast-semi-close.ogg"
-dest_files=["res://.godot/imported/459405__pfannkuchn__small-river-1-fast-semi-close.ogg-3d5769d929e34fef566f47c5b3863a9c.oggvorbisstr"]
 
 [params]
 

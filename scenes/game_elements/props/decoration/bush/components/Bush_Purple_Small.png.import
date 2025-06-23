@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvk0th3ohkru6"
-path="res://.godot/imported/Bush_Purple_Small.png-c89731b61eaa3daf2dc07d6cf22cbb0c.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/bush/components/Bush_Purple_Small.png"
-dest_files=["res://.godot/imported/Bush_Purple_Small.png-c89731b61eaa3daf2dc07d6cf22cbb0c.ctex"]
 
 [params]
 

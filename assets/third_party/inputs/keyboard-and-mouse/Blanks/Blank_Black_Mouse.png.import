@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3ntd0erv0qc5"
-path="res://.godot/imported/Blank_Black_Mouse.png-156c763fd0229790cf7fcc43edd8af56.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Blanks/Blank_Black_Mouse.png"
-dest_files=["res://.godot/imported/Blank_Black_Mouse.png-156c763fd0229790cf7fcc43edd8af56.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1dlp7j3rs6om"
-path="res://.godot/imported/ThreadSpool1.png-5b0ae2a556eecb4e4763c51b068cbaa8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/decoration/spool/components/ThreadSpool1.png"
-dest_files=["res://.godot/imported/ThreadSpool1.png-5b0ae2a556eecb4e4763c51b068cbaa8.ctex"]
 
 [params]
 

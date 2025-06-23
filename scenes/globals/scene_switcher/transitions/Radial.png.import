@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcwmaoqgu5t84"
-path="res://.godot/imported/Radial.png-3c76f70c6509e2d67f4f4e6f6a9e0345.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/globals/scene_switcher/transitions/Radial.png"
-dest_files=["res://.godot/imported/Radial.png-3c76f70c6509e2d67f4f4e6f6a9e0345.ctex"]
 
 [params]
 

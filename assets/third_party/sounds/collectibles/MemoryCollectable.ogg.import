@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhgpds38q0j4r"
-path="res://.godot/imported/MemoryCollectable.ogg-3606e91ac214cb2da702da5c0402ca87.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/sounds/collectibles/MemoryCollectable.ogg"
-dest_files=["res://.godot/imported/MemoryCollectable.ogg-3606e91ac214cb2da702da5c0402ca87.oggvorbisstr"]
 
 [params]
 

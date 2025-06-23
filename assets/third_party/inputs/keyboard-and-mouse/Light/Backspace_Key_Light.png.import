@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu1ixw2vqvnxe"
-path="res://.godot/imported/Backspace_Key_Light.png-253a8ad5c750738f58acda8261c5d075.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Backspace_Key_Light.png"
-dest_files=["res://.godot/imported/Backspace_Key_Light.png-253a8ad5c750738f58acda8261c5d075.ctex"]
 
 [params]
 

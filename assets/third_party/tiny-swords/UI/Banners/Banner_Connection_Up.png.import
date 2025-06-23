@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4gyda6ralkxj"
-path="res://.godot/imported/Banner_Connection_Up.png-81ef97ba7c1dcfeeb1a77a632dac4ddb.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Banners/Banner_Connection_Up.png"
-dest_files=["res://.godot/imported/Banner_Connection_Up.png-81ef97ba7c1dcfeeb1a77a632dac4ddb.ctex"]
 
 [params]
 

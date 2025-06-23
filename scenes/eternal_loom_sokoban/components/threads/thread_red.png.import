@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx61qiuaqlfkb"
-path="res://.godot/imported/thread_red.png-a9bd45b8e0384e0539d88377df5a7da5.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/eternal_loom_sokoban/components/threads/thread_red.png"
-dest_files=["res://.godot/imported/thread_red.png-a9bd45b8e0384e0539d88377df5a7da5.ctex"]
 
 [params]
 

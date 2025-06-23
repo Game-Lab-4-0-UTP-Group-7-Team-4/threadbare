@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqe0d715ncvjf"
-path="res://.godot/imported/G_Spawn.png-108905c429781e45fc6834a3e180ccc6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Resources/Resources/G_Spawn.png"
-dest_files=["res://.godot/imported/G_Spawn.png-108905c429781e45fc6834a3e180ccc6.ctex"]
 
 [params]
 

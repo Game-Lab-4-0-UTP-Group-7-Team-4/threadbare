@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc0ja04hrq4q6"
-path="res://.godot/imported/Archer_Red_(NoArms).png-4a61912f51d743f6fe2e1693249bfa7b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Red_(NoArms).png"
-dest_files=["res://.godot/imported/Archer_Red_(NoArms).png-4a61912f51d743f6fe2e1693249bfa7b.ctex"]
 
 [params]
 

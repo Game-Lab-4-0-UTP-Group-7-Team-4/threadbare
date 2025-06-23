@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bay28tg4l1p1h"
-path="res://.godot/imported/logo.png-2b8e3cab6190a7c8c1cc06e63998689f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/endless/logo.png"
-dest_files=["res://.godot/imported/logo.png-2b8e3cab6190a7c8c1cc06e63998689f.ctex"]
 
 [params]
 

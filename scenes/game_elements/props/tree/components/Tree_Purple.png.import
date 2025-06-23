@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4vdjsb5alniu"
-path="res://.godot/imported/Tree_Purple.png-f0e1a4e1a08f0598726be1dd2180b77a.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/props/tree/components/Tree_Purple.png"
-dest_files=["res://.godot/imported/Tree_Purple.png-f0e1a4e1a08f0598726be1dd2180b77a.ctex"]
 
 [params]
 

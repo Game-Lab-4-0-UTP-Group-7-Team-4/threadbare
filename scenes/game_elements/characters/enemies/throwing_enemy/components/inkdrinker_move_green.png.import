@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4xpkjes7k4qn"
-path="res://.godot/imported/inkdrinker_move_green.png-050666b223836fbf66975724ffbb06a5.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/enemies/throwing_enemy/components/inkdrinker_move_green.png"
-dest_files=["res://.godot/imported/inkdrinker_move_green.png-050666b223836fbf66975724ffbb06a5.ctex"]
 
 [params]
 

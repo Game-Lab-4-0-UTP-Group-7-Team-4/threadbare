@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1hipda8467yv"
-path="res://.godot/imported/storyweaver_red_attack_02.png-1456842690c4dee776ef9f37ceee86b2.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/player/components/storyweaver_red_attack_02.png"
-dest_files=["res://.godot/imported/storyweaver_red_attack_02.png-1456842690c4dee776ef9f37ceee86b2.ctex"]
 
 [params]
 

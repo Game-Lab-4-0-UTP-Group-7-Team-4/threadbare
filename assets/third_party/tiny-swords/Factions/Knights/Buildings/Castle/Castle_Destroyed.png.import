@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bacd67ic3n3o6"
-path="res://.godot/imported/Castle_Destroyed.png-d13952bf3a32deb3d2553330f99dac95.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Buildings/Castle/Castle_Destroyed.png"
-dest_files=["res://.godot/imported/Castle_Destroyed.png-d13952bf3a32deb3d2553330f99dac95.ctex"]
 
 [params]
 

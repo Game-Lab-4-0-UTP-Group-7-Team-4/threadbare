@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2xp28dgarppi"
-path="res://.godot/imported/Alt_Key_Light.png-f3228958e36d55baed76dda85f23d9fb.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Alt_Key_Light.png"
-dest_files=["res://.godot/imported/Alt_Key_Light.png-f3228958e36d55baed76dda85f23d9fb.ctex"]
 
 [params]
 

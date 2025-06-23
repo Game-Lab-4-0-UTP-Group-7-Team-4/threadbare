@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c75ofhy3swhj3"
-path="res://.godot/imported/exclamation_mark.png-0a9ccfa2ce8fbf6b3249fc20c75e39c1.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/enemies/guard/components/exclamation_mark.png"
-dest_files=["res://.godot/imported/exclamation_mark.png-0a9ccfa2ce8fbf6b3249fc20c75e39c1.ctex"]
 
 [params]
 

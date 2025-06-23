@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by7ggytaa4l3i"
-path="res://.godot/imported/spool_green.png-a88f23c1cace6563325a414231ebc80d.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/eternal_loom_sokoban/components/spools/spool_green.png"
-dest_files=["res://.godot/imported/spool_green.png-a88f23c1cace6563325a414231ebc80d.ctex"]
 
 [params]
 

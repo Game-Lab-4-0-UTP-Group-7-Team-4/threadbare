@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nm4n8vqpggij"
-path="res://.godot/imported/Arrow_Up_Key_Light.png-aa12c11f7b05034963769e8d25891938.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Arrow_Up_Key_Light.png"
-dest_files=["res://.godot/imported/Arrow_Up_Key_Light.png-aa12c11f7b05034963769e8d25891938.ctex"]
 
 [params]
 

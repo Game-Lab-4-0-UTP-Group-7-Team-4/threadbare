@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgi0acljk0ut7"
-path="res://.godot/imported/Explosions.png-5334169cbc15b593c3d3189be9fe3bab.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Effects/Explosion/Explosions.png"
-dest_files=["res://.godot/imported/Explosions.png-5334169cbc15b593c3d3189be9fe3bab.ctex"]
 
 [params]
 

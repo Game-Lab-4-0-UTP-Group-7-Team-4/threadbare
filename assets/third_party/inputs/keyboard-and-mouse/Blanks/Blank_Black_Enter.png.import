@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qsrriofdqos2"
-path="res://.godot/imported/Blank_Black_Enter.png-d9964493e1ac3ccb54e3cdc3ce6009ab.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Blanks/Blank_Black_Enter.png"
-dest_files=["res://.godot/imported/Blank_Black_Enter.png-d9964493e1ac3ccb54e3cdc3ce6009ab.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bol3lugnb8dai"
-path="res://.godot/imported/Slash_Key_Light.png-309629be98cc7d9625cd128419bfff48.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Slash_Key_Light.png"
-dest_files=["res://.godot/imported/Slash_Key_Light.png-309629be98cc7d9625cd128419bfff48.ctex"]
 
 [params]
 

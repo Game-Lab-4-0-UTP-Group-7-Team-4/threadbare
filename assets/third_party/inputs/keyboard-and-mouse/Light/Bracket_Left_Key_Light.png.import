@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d380qprc2glo0"
-path="res://.godot/imported/Bracket_Left_Key_Light.png-18b9043700b931b7f66fa280b6c546f7.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Bracket_Left_Key_Light.png"
-dest_files=["res://.godot/imported/Bracket_Left_Key_Light.png-18b9043700b931b7f66fa280b6c546f7.ctex"]
 
 [params]
 

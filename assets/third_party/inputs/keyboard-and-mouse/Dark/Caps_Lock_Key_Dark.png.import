@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hh0x4imh5r5f"
-path="res://.godot/imported/Caps_Lock_Key_Dark.png-49d5a52f7ea16afa613a3b3f02a3e5cf.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Caps_Lock_Key_Dark.png"
-dest_files=["res://.godot/imported/Caps_Lock_Key_Dark.png-49d5a52f7ea16afa613a3b3f02a3e5cf.ctex"]
 
 [params]
 

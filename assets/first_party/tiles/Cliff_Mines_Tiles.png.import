@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cledckq31klvq"
-path="res://.godot/imported/Cliff_Mines_Tiles.png-58bf43d38f7508df25c2a0a418f4533f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/tiles/Cliff_Mines_Tiles.png"
-dest_files=["res://.godot/imported/Cliff_Mines_Tiles.png-58bf43d38f7508df25c2a0a418f4533f.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxo3q1l7vjn23"
-path="res://.godot/imported/Castle_Yellow.png-5dba97f80e61cfb2c6e2cf9f5e78ec02.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Buildings/Castle/Castle_Yellow.png"
-dest_files=["res://.godot/imported/Castle_Yellow.png-5dba97f80e61cfb2c6e2cf9f5e78ec02.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpfftom0yxqjk"
-path="res://.godot/imported/storyweaver_yellow_walk.png-7a4b7cd660a7f6f340fec876ae1d4332.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/player/components/storyweaver_yellow_walk.png"
-dest_files=["res://.godot/imported/storyweaver_yellow_walk.png-7a4b7cd660a7f6f340fec876ae1d4332.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdnwce0lyihlf"
-path="res://.godot/imported/Num_Lock_Key_Dark.png-227d50b12b992d64b4e98e7ff4f0cea8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Dark/Num_Lock_Key_Dark.png"
-dest_files=["res://.godot/imported/Num_Lock_Key_Dark.png-227d50b12b992d64b4e98e7ff4f0cea8.ctex"]
 
 [params]
 

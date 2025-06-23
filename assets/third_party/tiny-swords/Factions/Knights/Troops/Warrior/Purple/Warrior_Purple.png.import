@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1trb2r0xandb"
-path="res://.godot/imported/Warrior_Purple.png-1347e054baa9793d059f78d0581ae6e4.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple.png"
-dest_files=["res://.godot/imported/Warrior_Purple.png-1347e054baa9793d059f78d0581ae6e4.ctex"]
 
 [params]
 

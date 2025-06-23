@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di2q25np620mx"
-path="res://.godot/imported/Tower_Construction.png-d0f88fffab2c152d71f19a7ea7dd0298.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Buildings/Tower/Tower_Construction.png"
-dest_files=["res://.godot/imported/Tower_Construction.png-d0f88fffab2c152d71f19a7ea7dd0298.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3yokak1jgx7"
-path="res://.godot/imported/Banner_Vertical.png-e9055736812db7a36f9956f38c729bab.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Banners/Banner_Vertical.png"
-dest_files=["res://.godot/imported/Banner_Vertical.png-e9055736812db7a36f9956f38c729bab.ctex"]
 
 [params]
 

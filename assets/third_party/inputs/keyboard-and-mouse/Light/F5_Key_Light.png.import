@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg7nrfx61ilxt"
-path="res://.godot/imported/F5_Key_Light.png-337fb4b2cb0281968b569a895dba915f.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/F5_Key_Light.png"
-dest_files=["res://.godot/imported/F5_Key_Light.png-337fb4b2cb0281968b569a895dba915f.ctex"]
 
 [params]
 

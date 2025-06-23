@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbclkccipxec2"
-path="res://.godot/imported/RockWater_Struck.png-cb076ef5e1d1e34eb8a8f55ab7e2d9e6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/rocks/RockWater_Struck.png"
-dest_files=["res://.godot/imported/RockWater_Struck.png-cb076ef5e1d1e34eb8a8f55ab7e2d9e6.ctex"]
 
 [params]
 

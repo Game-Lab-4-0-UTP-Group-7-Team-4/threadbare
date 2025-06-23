@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxaq5piwxqnht"
-path="res://.godot/imported/dust.png-6748d50daf0a107c9622bbbce093f3cd.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://scenes/game_elements/characters/player/components/dust.png"
-dest_files=["res://.godot/imported/dust.png-6748d50daf0a107c9622bbbce093f3cd.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjqa2miqxorv7"
-path="res://.godot/imported/Pawn_Blue.png-2837acb8c8210799b3aaabdf0c6017ad.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Pawn/Blue/Pawn_Blue.png"
-dest_files=["res://.godot/imported/Pawn_Blue.png-2837acb8c8210799b3aaabdf0c6017ad.ctex"]
 
 [params]
 

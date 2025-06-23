@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kalfq1qem3ak"
-path="res://.godot/imported/threadbare-logo.png-a67507c321115c45266ae4ea193b7d67.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/logo/threadbare-logo.png"
-dest_files=["res://.godot/imported/threadbare-logo.png-a67507c321115c45266ae4ea193b7d67.ctex"]
 
 [params]
 

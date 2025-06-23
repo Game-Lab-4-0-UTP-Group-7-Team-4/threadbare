@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6oahn2ucxxjv"
-path="res://.godot/imported/xylophone-g3.ogg-ffe9093dd04553203ce98ac5890da149.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/xylophone-sampler-pack/xylophone-g3.ogg"
-dest_files=["res://.godot/imported/xylophone-g3.ogg-ffe9093dd04553203ce98ac5890da149.oggvorbisstr"]
 
 [params]
 

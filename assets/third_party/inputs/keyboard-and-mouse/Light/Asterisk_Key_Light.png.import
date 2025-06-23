@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cten61lcgkls0"
-path="res://.godot/imported/Asterisk_Key_Light.png-00cdf0d9642a96d6f3040f9a26efe43d.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Asterisk_Key_Light.png"
-dest_files=["res://.godot/imported/Asterisk_Key_Light.png-00cdf0d9642a96d6f3040f9a26efe43d.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1po5xmfs16ot"
-path="res://.godot/imported/Ribbon_BlueLight_3Slides.png-827fec77263496d917e197a725b4bb9b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Ribbons/Ribbon_BlueLight_3Slides.png"
-dest_files=["res://.godot/imported/Ribbon_BlueLight_3Slides.png-827fec77263496d917e197a725b4bb9b.ctex"]
 
 [params]
 

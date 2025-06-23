@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtgjyst47ih6f"
-path="res://.godot/imported/Barrel_Yellow.png-d6094029495c0ce664e2ee0f76f940e6.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Goblins/Troops/Barrel/Yellow/Barrel_Yellow.png"
-dest_files=["res://.godot/imported/Barrel_Yellow.png-d6094029495c0ce664e2ee0f76f940e6.ctex"]
 
 [params]
 

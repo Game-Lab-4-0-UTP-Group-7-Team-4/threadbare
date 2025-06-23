@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beuewwdwr38j8"
-path="res://.godot/imported/Tilda_Key_Light.png-5743207d07c77814f013c2a1f7bdb24b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/inputs/keyboard-and-mouse/Light/Tilda_Key_Light.png"
-dest_files=["res://.godot/imported/Tilda_Key_Light.png-5743207d07c77814f013c2a1f7bdb24b.ctex"]
 
 [params]
 

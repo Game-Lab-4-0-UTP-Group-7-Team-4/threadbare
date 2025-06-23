@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oss7fewafkuj"
-path="res://.godot/imported/Archer_Yellow.png-f72d0ad5b41c670355b284450b5f4b9c.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/Factions/Knights/Troops/Archer/Yellow/Archer_Yellow.png"
-dest_files=["res://.godot/imported/Archer_Yellow.png-f72d0ad5b41c670355b284450b5f4b9c.ctex"]
 
 [params]
 

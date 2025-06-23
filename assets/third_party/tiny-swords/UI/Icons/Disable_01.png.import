@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vo1mlbmiontt"
-path="res://.godot/imported/Disable_01.png-46009372e10bf91c6fcb5f73f9c2a271.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/third_party/tiny-swords/UI/Icons/Disable_01.png"
-dest_files=["res://.godot/imported/Disable_01.png-46009372e10bf91c6fcb5f73f9c2a271.ctex"]
 
 [params]
 

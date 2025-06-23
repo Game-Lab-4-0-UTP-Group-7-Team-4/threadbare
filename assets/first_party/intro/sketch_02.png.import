@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cstytr1q6epdb"
-path="res://.godot/imported/sketch_02.png-8b43bba9e3483ff0f5f06b636c0aafb8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/first_party/intro/sketch_02.png"
-dest_files=["res://.godot/imported/sketch_02.png-8b43bba9e3483ff0f5f06b636c0aafb8.ctex"]
 
 [params]
 
